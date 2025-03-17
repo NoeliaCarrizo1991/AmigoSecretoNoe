@@ -1,4 +1,4 @@
-# AmigoSecretoNoe
+
 <h1 align="center"> playSecret </h1>
 
 ![nombre_juego](https://github.com/user-attachments/assets/1053edbb-d989-45a2-b525-0f20ff4521c2)
